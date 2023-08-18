@@ -1,0 +1,8 @@
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.exe.config
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.exe
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\bin\Debug\ProductInventoryApp.pdb
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.AssemblyReference.cache
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.SuggestedBindingRedirects.cache
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.csproj.CoreCompileInputs.cache
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.exe
+D:\SQL Server Assignment\Day-6\ProductInventoryApp\ProductInventoryApp\obj\Debug\ProductInventoryApp.pdb
